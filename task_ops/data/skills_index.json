@@ -1,0 +1,2947 @@
+[
+  {
+    "id": "accounts-payable-management",
+    "path": "skills/business-operations/accounts-payable-management",
+    "category": "business-operations",
+    "name": "Accounts Payable Management",
+    "description": "Manage supplier invoices and vendor payments with automated receipt matching, payment scheduling, early discount optimization, and reconciliation workflows",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "b2b-commerce",
+    "path": "skills/business-operations/b2b-commerce",
+    "category": "business-operations",
+    "name": "B2b Commerce",
+    "description": "Enable wholesale and B2B sales with company accounts, custom catalogs, quote workflows, purchase orders, and net payment terms",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "demand-forecasting",
+    "path": "skills/business-operations/demand-forecasting",
+    "category": "business-operations",
+    "name": "Demand Forecasting",
+    "description": "Predict future inventory needs using historical sales data, seasonal trends, and reorder points to prevent stockouts and overstock",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "marketplace-building",
+    "path": "skills/business-operations/marketplace-building",
+    "category": "business-operations",
+    "name": "Marketplace Building",
+    "description": "Launch a multi-vendor marketplace with seller onboarding, commission rules, automated payouts via Stripe Connect, and vendor dashboards",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "merchandising-rules",
+    "path": "skills/business-operations/merchandising-rules",
+    "category": "business-operations",
+    "name": "Merchandising Rules",
+    "description": "Control which products appear first in collections using automated ranking rules, manual overrides, and performance-based sorting algorithms",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "multi-channel-selling",
+    "path": "skills/business-operations/multi-channel-selling",
+    "category": "business-operations",
+    "name": "Multi Channel Selling",
+    "description": "Sync your catalog and inventory across your own site, Amazon, eBay, and wholesale channels to sell everywhere from one system",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "order-management-system",
+    "path": "skills/business-operations/order-management-system",
+    "category": "business-operations",
+    "name": "Order Management System",
+    "description": "Design an order management system that routes orders to the right warehouse, handles split shipments, and manages backorders gracefully",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "returns-refund-policy",
+    "path": "skills/business-operations/returns-refund-policy",
+    "category": "business-operations",
+    "name": "Returns Refund Policy",
+    "description": "Automate your return and refund process with configurable return windows, restocking fees, and rule-based approval logic for each product type",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "vendor-management",
+    "path": "skills/business-operations/vendor-management",
+    "category": "business-operations",
+    "name": "Vendor Management",
+    "description": "Manage supplier relationships with a portal for purchase orders, dropship routing, delivery tracking, and vendor performance scorecards",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "catalog-import-export",
+    "path": "skills/catalog-inventory/catalog-import-export",
+    "category": "catalog-inventory",
+    "name": "Catalog Import Export",
+    "description": "Import and export your entire product catalog in bulk using your platform's native tools or dedicated apps, with validation and scheduled sync support",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "cogs-tracking-allocation",
+    "path": "skills/catalog-inventory/cogs-tracking-allocation",
+    "category": "catalog-inventory",
+    "name": "Cogs Tracking Allocation",
+    "description": "Track cost of goods sold and landed costs using your platform's built-in tools or accounting integrations to compute accurate gross margin per order",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "digital-products",
+    "path": "skills/catalog-inventory/digital-products",
+    "category": "catalog-inventory",
+    "name": "Digital Products",
+    "description": "Sell software, ebooks, and other downloads with secure delivery, license key generation, download limits, and expiration controls using platform apps",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "inventory-tracking",
+    "path": "skills/catalog-inventory/inventory-tracking",
+    "category": "catalog-inventory",
+    "name": "Inventory Tracking",
+    "description": "Track stock levels in real time across your platform with inventory reservation to prevent overselling and support for backorders",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "low-stock-alerts",
+    "path": "skills/catalog-inventory/low-stock-alerts",
+    "category": "catalog-inventory",
+    "name": "Low Stock Alerts",
+    "description": "Set up automated alerts when products fall below custom thresholds so you can reorder before running out of stock",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "multi-warehouse",
+    "path": "skills/catalog-inventory/multi-warehouse",
+    "category": "catalog-inventory",
+    "name": "Multi Warehouse",
+    "description": "Manage inventory across multiple warehouses with smart allocation rules, transfer orders between locations, and split-fulfillment routing",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "product-bundles-kits",
+    "path": "skills/catalog-inventory/product-bundles-kits",
+    "category": "catalog-inventory",
+    "name": "Product Bundles Kits",
+    "description": "Sell grouped products as bundles or kits with automatic inventory deduction, bundle pricing, and display logic using platform apps",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "product-categorization",
+    "path": "skills/catalog-inventory/product-categorization",
+    "category": "catalog-inventory",
+    "name": "Product Categorization",
+    "description": "Build a clean product hierarchy with collections, categories, tags, and breadcrumb navigation using your platform's native tools",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "product-content-enrichment",
+    "path": "skills/catalog-inventory/product-content-enrichment",
+    "category": "catalog-inventory",
+    "name": "Product Content Enrichment",
+    "description": "Use AI to auto-generate product descriptions, extract attributes, and tag images to enrich your catalog at scale using platform tools and AI writing apps",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "product-data-modeling",
+    "path": "skills/catalog-inventory/product-data-modeling",
+    "category": "catalog-inventory",
+    "name": "Product Data Modeling",
+    "description": "Structure your product catalog using your platform's native data model for variants, attributes, metafields, and product relationships",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "variant-matrix",
+    "path": "skills/catalog-inventory/variant-matrix",
+    "category": "catalog-inventory",
+    "name": "Variant Matrix",
+    "description": "Generate and manage all size/color/material combinations for a product using your platform's variant tools with bulk price and inventory management",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "customer-accounts",
+    "path": "skills/customer-crm/customer-accounts",
+    "category": "customer-crm",
+    "name": "Customer Accounts",
+    "description": "Let shoppers register, manage their profile, save multiple addresses, and view their full order history using your platform's built-in customer account system",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "customer-lifetime-value",
+    "path": "skills/customer-crm/customer-lifetime-value",
+    "category": "customer-crm",
+    "name": "Customer Lifetime Value",
+    "description": "Calculate and track the net profit value each customer generates, then automate retention strategies for your highest-value segments using platform tools",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "customer-segmentation",
+    "path": "skills/customer-crm/customer-segmentation",
+    "category": "customer-crm",
+    "name": "Customer Segmentation",
+    "description": "Segment customers by purchase behavior, recency, and spend using Klaviyo, your platform's built-in tools, or a custom RFM analysis to power targeted marketing",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "customer-support-integration",
+    "path": "skills/customer-crm/customer-support-integration",
+    "category": "customer-crm",
+    "name": "Customer Support Integration",
+    "description": "Connect your helpdesk (Gorgias, Zendesk, Intercom) to your store so support agents see full order history and customer details without switching tools",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "live-chat-commerce",
+    "path": "skills/customer-crm/live-chat-commerce",
+    "category": "customer-crm",
+    "name": "Live Chat Commerce",
+    "description": "Add real-time chat to your storefront using a platform-native app so agents can share product links, assist with cart questions, and close sales",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "personalization-engine",
+    "path": "skills/customer-crm/personalization-engine",
+    "category": "customer-crm",
+    "name": "Personalization Engine",
+    "description": "Show each shopper personalized product recommendations using platform apps and recommendation tools based on browsing history and purchase patterns",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "product-reviews-ratings",
+    "path": "skills/customer-crm/product-reviews-ratings",
+    "category": "customer-crm",
+    "name": "Product Reviews Ratings",
+    "description": "Collect, moderate, and display customer reviews with star ratings, aggregate scores, and structured data markup for Google rich results",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "referral-program",
+    "path": "skills/customer-crm/referral-program",
+    "category": "customer-crm",
+    "name": "Referral Program",
+    "description": "Grow your customer base with a refer-a-friend program featuring unique shareable links, tiered rewards, and built-in fraud prevention",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "user-generated-content",
+    "path": "skills/customer-crm/user-generated-content",
+    "category": "customer-crm",
+    "name": "User Generated Content",
+    "description": "Let customers upload photos, ask and answer product questions, and share social proof that increases trust and conversion for new visitors",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "ab-testing-ecommerce",
+    "path": "skills/data-analytics/ab-testing-ecommerce",
+    "category": "data-analytics",
+    "name": "Ab Testing Ecommerce",
+    "description": "Run controlled experiments on product pages, checkout flows, and pricing to find what converts best using statistical significance testing",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "attribution-modeling",
+    "path": "skills/data-analytics/attribution-modeling",
+    "category": "data-analytics",
+    "name": "Attribution Modeling",
+    "description": "Understand which marketing channels drive purchases by implementing multi-touch attribution models across UTM-tracked campaigns and channels",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "cash-flow-forecasting",
+    "path": "skills/data-analytics/cash-flow-forecasting",
+    "category": "data-analytics",
+    "name": "Cash Flow Forecasting",
+    "description": "Forecast cash flow using historical sales patterns, payment terms, seasonal trends, and receivables modeling with scenario planning and runway tracking",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "cost-allocation-analysis",
+    "path": "skills/data-analytics/cost-allocation-analysis",
+    "category": "data-analytics",
+    "name": "Cost Allocation Analysis",
+    "description": "Allocate COGS, shipping, marketing, and overhead costs across products, channels, and orders to calculate true per-unit and per-order profitability",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "customer-analytics",
+    "path": "skills/data-analytics/customer-analytics",
+    "category": "data-analytics",
+    "name": "Customer Analytics",
+    "description": "Analyze customer behavior with RFM scoring, purchase frequency tracking, churn prediction, and cohort analysis to improve retention strategy",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "ecommerce-budgeting-forecasting",
+    "path": "skills/data-analytics/ecommerce-budgeting-forecasting",
+    "category": "data-analytics",
+    "name": "Ecommerce Budgeting Forecasting",
+    "description": "Build rolling operating budgets for marketing spend, inventory purchases, and operations with variance analysis, scenario modeling, and budget utilization alerts",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "ecommerce-data-warehouse",
+    "path": "skills/data-analytics/ecommerce-data-warehouse",
+    "category": "data-analytics",
+    "name": "Ecommerce Data Warehouse",
+    "description": "Build a commerce data warehouse with star-schema tables, ETL pipelines, and dbt models for BigQuery, Snowflake, or Redshift analytics",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "financial-analytics-dashboard",
+    "path": "skills/data-analytics/financial-analytics-dashboard",
+    "category": "data-analytics",
+    "name": "Financial Analytics Dashboard",
+    "description": "Build interactive financial KPI dashboards with customizable metrics, drill-down analysis, variance explanations, and automated threshold-based alerting",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "financial-reporting-dashboard",
+    "path": "skills/data-analytics/financial-reporting-dashboard",
+    "category": "data-analytics",
+    "name": "Financial Reporting Dashboard",
+    "description": "Build P&L, balance sheet, and cash flow dashboards for ecommerce with drill-down by product, channel, and time period for management and investor reporting",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "marketing-spend-analysis",
+    "path": "skills/data-analytics/marketing-spend-analysis",
+    "category": "data-analytics",
+    "name": "Marketing Spend Analysis",
+    "description": "Track and analyze marketing spend across all channels with ROAS calculation, diminishing returns analysis, and budget reallocation recommendations by platform",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "marketplace-fee-reconciliation",
+    "path": "skills/data-analytics/marketplace-fee-reconciliation",
+    "category": "data-analytics",
+    "name": "Marketplace Fee Reconciliation",
+    "description": "Reconcile and analyze seller fees from Amazon, eBay, Walmart, and Etsy with net revenue calculation, fee categorization, and optimization recommendations",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "product-analytics",
+    "path": "skills/data-analytics/product-analytics",
+    "category": "data-analytics",
+    "name": "Product Analytics",
+    "description": "Track product performance with sell-through rates, views-to-purchase conversion, dead stock identification, and category-level reporting",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "profit-margin-analysis",
+    "path": "skills/data-analytics/profit-margin-analysis",
+    "category": "data-analytics",
+    "name": "Profit Margin Analysis",
+    "description": "Analyze gross and net profit margins by product, category, channel, and customer segment with cost attribution, benchmarking, and trend visualization",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "revenue-recognition-accounting",
+    "path": "skills/data-analytics/revenue-recognition-accounting",
+    "category": "data-analytics",
+    "name": "Revenue Recognition Accounting",
+    "description": "Implement ASC 606 / IFRS 15 revenue recognition for subscriptions, bundles, and multi-element arrangements with deferred revenue tracking and journal entries",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "sales-reporting-dashboard",
+    "path": "skills/data-analytics/sales-reporting-dashboard",
+    "category": "data-analytics",
+    "name": "Sales Reporting Dashboard",
+    "description": "Build executive dashboards showing revenue, average order value, conversion rates, and cohort analysis with drill-down by date and channel",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "unit-economics-tracking",
+    "path": "skills/data-analytics/unit-economics-tracking",
+    "category": "data-analytics",
+    "name": "Unit Economics Tracking",
+    "description": "Track customer acquisition cost, lifetime value, payback period, and contribution margin by cohort and channel with profitability benchmarks and trend analysis",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "dropshipping-integration",
+    "path": "skills/fulfillment-shipping/dropshipping-integration",
+    "category": "fulfillment-shipping",
+    "name": "Dropshipping Integration",
+    "description": "Connect to supplier APIs for automatic order routing to dropship vendors, real-time inventory sync, and margin calculation per order",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "free-shipping-thresholds",
+    "path": "skills/fulfillment-shipping/free-shipping-thresholds",
+    "category": "fulfillment-shipping",
+    "name": "Free Shipping Thresholds",
+    "description": "Motivate larger orders by showing a progress bar toward free shipping and nudging customers to add more items to qualify",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "international-shipping",
+    "path": "skills/fulfillment-shipping/international-shipping",
+    "category": "fulfillment-shipping",
+    "name": "International Shipping",
+    "description": "Handle cross-border orders with customs form generation, duties and taxes estimation, HS code assignment, and restricted items blocking",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "order-fulfillment-workflow",
+    "path": "skills/fulfillment-shipping/order-fulfillment-workflow",
+    "category": "fulfillment-shipping",
+    "name": "Order Fulfillment Workflow",
+    "description": "Streamline your warehouse with digital pick-pack-ship workflows, barcode scanning for accuracy, and automatic packing slip generation",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "returns-management",
+    "path": "skills/fulfillment-shipping/returns-management",
+    "category": "fulfillment-shipping",
+    "name": "Returns Management",
+    "description": "Process returns end to end — generate prepaid labels, apply refund or exchange logic, update inventory, and notify customers automatically",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "same-day-delivery",
+    "path": "skills/fulfillment-shipping/same-day-delivery",
+    "category": "fulfillment-shipping",
+    "name": "Same Day Delivery",
+    "description": "Offer same-day local delivery with geographic zone management, customer-facing time-slot booking, and driver dispatch coordination",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "shipment-tracking",
+    "path": "skills/fulfillment-shipping/shipment-tracking",
+    "category": "fulfillment-shipping",
+    "name": "Shipment Tracking",
+    "description": "Give customers live package tracking by aggregating carrier status updates via webhooks and sending proactive delivery notifications",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "shipping-rate-calculator",
+    "path": "skills/fulfillment-shipping/shipping-rate-calculator",
+    "category": "fulfillment-shipping",
+    "name": "Shipping Rate Calculator",
+    "description": "Show real-time shipping rates from UPS, FedEx, USPS, and DHL at checkout by integrating directly with each carrier's rate API",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "commerce-api-gateway",
+    "path": "skills/headless-modern/commerce-api-gateway",
+    "category": "headless-modern",
+    "name": "Commerce Api Gateway",
+    "description": "Aggregate multiple commerce microservices behind a single API gateway with GraphQL federation, rate limiting, and unified authentication",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "platform-agnostic"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "commerce-js-integration",
+    "path": "skills/headless-modern/commerce-js-integration",
+    "category": "headless-modern",
+    "name": "Commerce Js Integration",
+    "description": "Build a lightweight headless store using the Commerce.js SDK for product display, cart management, and checkout without a heavy backend",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "platform-agnostic"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "composable-commerce",
+    "path": "skills/headless-modern/composable-commerce",
+    "category": "headless-modern",
+    "name": "Composable Commerce",
+    "description": "Architect a modern store using MACH principles — independent microservices, API-first integrations, cloud-native hosting, and headless frontend",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "platform-agnostic"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "jamstack-storefront",
+    "path": "skills/headless-modern/jamstack-storefront",
+    "category": "headless-modern",
+    "name": "Jamstack Storefront",
+    "description": "Build a blazing-fast storefront with Next.js or Astro that pre-renders product pages as static HTML and fetches live data from commerce APIs",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "platform-agnostic"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "medusa-development",
+    "path": "skills/headless-modern/medusa-development",
+    "category": "headless-modern",
+    "name": "Medusa Development",
+    "description": "Extend the open-source Medusa commerce platform with custom services, event subscribers, and API endpoints for unique business requirements",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "medusa"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "pwa-storefront",
+    "path": "skills/headless-modern/pwa-storefront",
+    "category": "headless-modern",
+    "name": "Pwa Storefront",
+    "description": "Turn your store into an installable Progressive Web App with offline product browsing, push notifications, and home screen access for mobile shoppers",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "platform-agnostic"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "saleor-development",
+    "path": "skills/headless-modern/saleor-development",
+    "category": "headless-modern",
+    "name": "Saleor Development",
+    "description": "Build and extend Saleor's GraphQL-based headless commerce platform with custom apps, webhook handlers, and dashboard UI customizations",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "platform-agnostic"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "shopify-hydrogen",
+    "path": "skills/headless-modern/shopify-hydrogen",
+    "category": "headless-modern",
+    "name": "Shopify Hydrogen",
+    "description": "Build a custom Shopify storefront using the Hydrogen React framework with Remix routing and deploy it to Shopify's Oxygen edge hosting",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "platform-agnostic"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "database-optimization-commerce",
+    "path": "skills/infrastructure-performance/database-optimization-commerce",
+    "category": "infrastructure-performance",
+    "name": "Database Optimization Commerce",
+    "description": "Speed up slow product and order queries with proper indexing, query analysis, read replicas, and search engine offloading strategies",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "ecommerce-caching",
+    "path": "skills/infrastructure-performance/ecommerce-caching",
+    "category": "infrastructure-performance",
+    "name": "Ecommerce Caching",
+    "description": "Improve store performance with a layered caching strategy — CDN edge caching, Redis application cache, and smart cart-aware invalidation",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "edge-commerce",
+    "path": "skills/infrastructure-performance/edge-commerce",
+    "category": "infrastructure-performance",
+    "name": "Edge Commerce",
+    "description": "Reduce latency globally by running geo-routing, A/B tests, and personalization logic at the network edge using Cloudflare Workers or Vercel",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "flash-sale-scaling",
+    "path": "skills/infrastructure-performance/flash-sale-scaling",
+    "category": "infrastructure-performance",
+    "name": "Flash Sale Scaling",
+    "description": "Prepare for Black Friday and flash sales with auto-scaling, queue-based order processing, and circuit breakers to prevent site outages",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "image-optimization-cdn",
+    "path": "skills/infrastructure-performance/image-optimization-cdn",
+    "category": "infrastructure-performance",
+    "name": "Image Optimization Cdn",
+    "description": "Speed up your store by automatically resizing and converting product images to WebP/AVIF, adding lazy loading, and serving via CDN",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "load-testing-commerce",
+    "path": "skills/infrastructure-performance/load-testing-commerce",
+    "category": "infrastructure-performance",
+    "name": "Load Testing Commerce",
+    "description": "Simulate realistic shopper traffic on your checkout and catalog pages using k6 or Artillery to find performance bottlenecks before launch",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "monitoring-alerting-commerce",
+    "path": "skills/infrastructure-performance/monitoring-alerting-commerce",
+    "category": "infrastructure-performance",
+    "name": "Monitoring Alerting Commerce",
+    "description": "Track store health in real time with dashboards for checkout success rate, payment failures, cart errors, and custom SLO alerting",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "analytics-integration",
+    "path": "skills/integrations-apis/analytics-integration",
+    "category": "integrations-apis",
+    "name": "Analytics Integration",
+    "description": "Implement GA4, Meta Pixel, and server-side tagging with a proper data layer so you capture accurate conversion events for ad campaigns",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "email-service-integration",
+    "path": "skills/integrations-apis/email-service-integration",
+    "category": "integrations-apis",
+    "name": "Email Service Integration",
+    "description": "Send reliable transactional emails (order confirmations, shipping updates) via SendGrid, SES, or Postmark with templates and deliverability best practices",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "erp-integration",
+    "path": "skills/integrations-apis/erp-integration",
+    "category": "integrations-apis",
+    "name": "Erp Integration",
+    "description": "Sync orders, inventory, and customer data between your store and ERP systems like SAP, NetSuite, or Odoo using middleware and async queues",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "marketplace-connectors",
+    "path": "skills/integrations-apis/marketplace-connectors",
+    "category": "integrations-apis",
+    "name": "Marketplace Connectors",
+    "description": "List products on Amazon, eBay, and Walmart with two-way inventory sync, automated listing creation, and order import into your store",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "pos-integration",
+    "path": "skills/integrations-apis/pos-integration",
+    "category": "integrations-apis",
+    "name": "Pos Integration",
+    "description": "Connect your physical point-of-sale system to your online store for unified inventory, shared customer records, and omnichannel order management",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "product-information-management",
+    "path": "skills/integrations-apis/product-information-management",
+    "category": "integrations-apis",
+    "name": "Product Information Management",
+    "description": "Centralize product data in a PIM system like Akeneo or Salsify and syndicate enriched content to all your sales channels automatically",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "webhook-architecture",
+    "path": "skills/integrations-apis/webhook-architecture",
+    "category": "integrations-apis",
+    "name": "Webhook Architecture",
+    "description": "Build a reliable event delivery system with automatic retries, HMAC signature verification, and dead-letter queues so no webhook is ever lost",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "affiliate-program",
+    "path": "skills/marketing-growth/affiliate-program",
+    "category": "marketing-growth",
+    "name": "Affiliate Program",
+    "description": "Track affiliate sales with unique links, manage commission tiers, automate payouts, and detect fraudulent referrals to protect your margins",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "applovin-ads-integration",
+    "path": "skills/marketing-growth/applovin-ads-integration",
+    "category": "marketing-growth",
+    "name": "Applovin Ads Integration",
+    "description": "Integrate AppLovin MAX mediation and ad campaigns for mobile commerce apps with user acquisition, retargeting, and in-app purchase event tracking",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "cart-abandonment-recovery",
+    "path": "skills/marketing-growth/cart-abandonment-recovery",
+    "category": "marketing-growth",
+    "name": "Cart Abandonment Recovery",
+    "description": "Win back shoppers who leave items in their cart by setting up timed email, SMS, and push sequences with escalating incentives to complete their purchase",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "cart-recovery-sms",
+    "path": "skills/marketing-growth/cart-recovery-sms",
+    "category": "marketing-growth",
+    "name": "Cart Recovery Sms",
+    "description": "Recover abandoned carts with targeted SMS sequences including urgency messaging, product reminders, discount incentives, and TCPA-compliant opt-in flows",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "content-commerce",
+    "path": "skills/marketing-growth/content-commerce",
+    "category": "marketing-growth",
+    "name": "Content Commerce",
+    "description": "Turn your blog into a sales channel by embedding shoppable product cards in editorial content and tracking content-influenced revenue",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "conversion-rate-optimization",
+    "path": "skills/marketing-growth/conversion-rate-optimization",
+    "category": "marketing-growth",
+    "name": "Conversion Rate Optimization",
+    "description": "Systematically improve your store's revenue per visitor by auditing checkout drop-off, running heatmaps, and implementing CRO best practices",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "cross-sell-upsell-engine",
+    "path": "skills/marketing-growth/cross-sell-upsell-engine",
+    "category": "marketing-growth",
+    "name": "Cross Sell Upsell Engine",
+    "description": "Recommend complementary and premium products at checkout, in cart, and post-purchase using purchase patterns, browsing history, and margin optimization",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "customer-retention-engine",
+    "path": "skills/marketing-growth/customer-retention-engine",
+    "category": "marketing-growth",
+    "name": "Customer Retention Engine",
+    "description": "Build automated retention campaigns targeting at-risk customers with behavioral triggers, personalized offers, and churn prevention workflows",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "ecommerce-seo",
+    "path": "skills/marketing-growth/ecommerce-seo",
+    "category": "marketing-growth",
+    "name": "Ecommerce Seo",
+    "description": "Maximize organic search traffic with optimized product page meta tags, JSON-LD structured data for Google Shopping, and automated XML sitemaps",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "email-list-segmentation",
+    "path": "skills/marketing-growth/email-list-segmentation",
+    "category": "marketing-growth",
+    "name": "Email List Segmentation",
+    "description": "Create dynamic email segments based on purchase behavior, RFM scores, engagement signals, and lifecycle stage with automated rebalancing and list hygiene",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "email-marketing-automation",
+    "path": "skills/marketing-growth/email-marketing-automation",
+    "category": "marketing-growth",
+    "name": "Email Marketing Automation",
+    "description": "Build automated email flows for welcome series, post-purchase follow-ups, win-back campaigns, and browse abandonment to drive repeat revenue",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "exit-intent-popups",
+    "path": "skills/marketing-growth/exit-intent-popups",
+    "category": "marketing-growth",
+    "name": "Exit Intent Popups",
+    "description": "Capture leaving visitors with targeted exit-intent popups that show personalized offers, email capture forms, and respect frequency capping rules",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "first-party-data-collection",
+    "path": "skills/marketing-growth/first-party-data-collection",
+    "category": "marketing-growth",
+    "name": "First Party Data Collection",
+    "description": "Build a first-party data strategy with progressive profiling, zero-party surveys, preference centers, and quiz-based product recommendations",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "google-ads-ecommerce",
+    "path": "skills/marketing-growth/google-ads-ecommerce",
+    "category": "marketing-growth",
+    "name": "Google Ads Ecommerce",
+    "description": "Build and optimize Google Ads campaigns for ecommerce with Performance Max, Shopping feeds, conversion tracking, and Smart Bidding strategies for ROAS",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "google-shopping-feed",
+    "path": "skills/marketing-growth/google-shopping-feed",
+    "category": "marketing-growth",
+    "name": "Google Shopping Feed",
+    "description": "Generate and optimize a product feed for Google Merchant Center so your products appear in Google Shopping ads with correct attributes",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "influencer-marketplace-integration",
+    "path": "skills/marketing-growth/influencer-marketplace-integration",
+    "category": "marketing-growth",
+    "name": "Influencer Marketplace Integration",
+    "description": "Connect to influencer networks to discover creators, manage campaign briefs, track deliverables, and measure ROI across Instagram, TikTok, and YouTube",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "influencer-tracking",
+    "path": "skills/marketing-growth/influencer-tracking",
+    "category": "marketing-growth",
+    "name": "Influencer Tracking",
+    "description": "Measure influencer campaign ROI by generating unique UTM links per creator, attributing sales, and reporting revenue against campaign spend",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lifecycle-marketing-automation",
+    "path": "skills/marketing-growth/lifecycle-marketing-automation",
+    "category": "marketing-growth",
+    "name": "Lifecycle Marketing Automation",
+    "description": "Map customer journey stages from first visit to loyal advocate with personalized messaging, triggered workflows, and segment-based campaign automation",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "loyalty-program-optimization",
+    "path": "skills/marketing-growth/loyalty-program-optimization",
+    "category": "marketing-growth",
+    "name": "Loyalty Program Optimization",
+    "description": "Design and optimize tiered loyalty programs with points, rewards, exclusive perks, and member-only benefits that increase repeat purchase rates and CLV",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "marketing-attribution-dashboard",
+    "path": "skills/marketing-growth/marketing-attribution-dashboard",
+    "category": "marketing-growth",
+    "name": "Marketing Attribution Dashboard",
+    "description": "Build multi-touch attribution dashboards tracking revenue by channel, campaign, and creative with blended ROAS analysis and budget allocation recommendations",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "marketplace-advertising",
+    "path": "skills/marketing-growth/marketplace-advertising",
+    "category": "marketing-growth",
+    "name": "Marketplace Advertising",
+    "description": "Manage sponsored product ads across Amazon, eBay, and Walmart marketplace platforms with bid optimization, keyword targeting, and ACOS tracking",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "meta-ads-integration",
+    "path": "skills/marketing-growth/meta-ads-integration",
+    "category": "marketing-growth",
+    "name": "Meta Ads Integration",
+    "description": "Set up and optimize Meta (Facebook/Instagram) ad campaigns with Conversions API server-side tracking, dynamic product ads, and catalog sync for ecommerce",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "predictive-personalization",
+    "path": "skills/marketing-growth/predictive-personalization",
+    "category": "marketing-growth",
+    "name": "Predictive Personalization",
+    "description": "Use machine learning models to predict customer preferences and deliver personalized product recommendations, content, and offers based on behavioral signals",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "product-launch-campaigns",
+    "path": "skills/marketing-growth/product-launch-campaigns",
+    "category": "marketing-growth",
+    "name": "Product Launch Campaigns",
+    "description": "Plan and execute multi-channel product launches with pre-launch waitlists, early access for VIPs, launch day orchestration, and post-launch momentum",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "push-notifications",
+    "path": "skills/marketing-growth/push-notifications",
+    "category": "marketing-growth",
+    "name": "Push Notifications",
+    "description": "Send browser push notifications for price drops, back-in-stock alerts, and cart reminders to bring shoppers back without needing their email",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "referral-viral-loops",
+    "path": "skills/marketing-growth/referral-viral-loops",
+    "category": "marketing-growth",
+    "name": "Referral Viral Loops",
+    "description": "Build referral mechanics with dual-sided rewards, unique tracking links, viral coefficient optimization, and anti-fraud controls for referral abuse",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "review-generation-engine",
+    "path": "skills/marketing-growth/review-generation-engine",
+    "category": "marketing-growth",
+    "name": "Review Generation Engine",
+    "description": "Automatically request and collect product reviews post-purchase with timed email/SMS sequences, photo incentives, and fraud detection for fake reviews",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "seasonal-campaign-automation",
+    "path": "skills/marketing-growth/seasonal-campaign-automation",
+    "category": "marketing-growth",
+    "name": "Seasonal Campaign Automation",
+    "description": "Automate seasonal marketing campaigns for Black Friday, holidays, and shopping events with templated workflows, countdown sequences, and year-round planning",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sms-marketing",
+    "path": "skills/marketing-growth/sms-marketing",
+    "category": "marketing-growth",
+    "name": "Sms Marketing",
+    "description": "Launch SMS marketing campaigns with opt-in flows, audience segmentation, and full TCPA/GDPR compliance to drive revenue through text messaging",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "social-commerce",
+    "path": "skills/marketing-growth/social-commerce",
+    "category": "marketing-growth",
+    "name": "Social Commerce",
+    "description": "Sync your catalog to Instagram, TikTok, and Facebook to enable shoppable posts and in-app checkout directly from your social content",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "social-proof-widgets",
+    "path": "skills/marketing-growth/social-proof-widgets",
+    "category": "marketing-growth",
+    "name": "Social Proof Widgets",
+    "description": "Display real-time social proof including recent purchases, review counts, visitor counts, and verified buyer badges to build trust and boost conversions",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "tiktok-ads-integration",
+    "path": "skills/marketing-growth/tiktok-ads-integration",
+    "category": "marketing-growth",
+    "name": "Tiktok Ads Integration",
+    "description": "Launch TikTok ad campaigns for ecommerce with Events API server-side tracking, Spark Ads, catalog sync, and shopping ads for product discovery",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "tiktok-shop-integration",
+    "path": "skills/marketing-growth/tiktok-shop-integration",
+    "category": "marketing-growth",
+    "name": "Tiktok Shop Integration",
+    "description": "Sync your product catalog to TikTok Shop, manage orders and inventory, and enable shoppable content with live shopping and affiliate creator programs",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "ugc-campaign-management",
+    "path": "skills/marketing-growth/ugc-campaign-management",
+    "category": "marketing-growth",
+    "name": "Ugc Campaign Management",
+    "description": "Source, curate, and display user-generated content at scale with rights management, brand safety moderation, and trust-building social proof galleries",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "video-commerce-integration",
+    "path": "skills/marketing-growth/video-commerce-integration",
+    "category": "marketing-growth",
+    "name": "Video Commerce Integration",
+    "description": "Enable shoppable video experiences with live shopping events, interactive product hotspots, and one-click checkout directly from video and livestream content",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "win-back-reactivation",
+    "path": "skills/marketing-growth/win-back-reactivation",
+    "category": "marketing-growth",
+    "name": "Win Back Reactivation",
+    "description": "Re-engage lapsed customers with automated win-back campaigns using personalized comeback offers based on purchase history and inactivity windows",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "accounts-receivable-automation",
+    "path": "skills/payments-checkout/accounts-receivable-automation",
+    "category": "payments-checkout",
+    "name": "Accounts Receivable Automation",
+    "description": "Automate B2B accounts receivable with invoice generation, payment tracking, dunning sequences for past-due invoices, and aging analysis dashboards",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "buy-now-pay-later",
+    "path": "skills/payments-checkout/buy-now-pay-later",
+    "category": "payments-checkout",
+    "name": "Buy Now Pay Later",
+    "description": "Offer Klarna, Afterpay, or Affirm installment payments at checkout to reduce purchase hesitation and increase average order value",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "cart-logic",
+    "path": "skills/payments-checkout/cart-logic",
+    "category": "payments-checkout",
+    "name": "Cart Logic",
+    "description": "Build a robust shopping cart with add/remove/update operations, session persistence across devices, and cart merge for returning logged-in users",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "chargeback-management-prevention",
+    "path": "skills/payments-checkout/chargeback-management-prevention",
+    "category": "payments-checkout",
+    "name": "Chargeback Management Prevention",
+    "description": "Prevent and manage chargebacks with fraud scoring, compelling evidence automation, Visa CE 3.0 / Mastercom integration, and win-rate optimization",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "checkout-flow-optimization",
+    "path": "skills/payments-checkout/checkout-flow-optimization",
+    "category": "payments-checkout",
+    "name": "Checkout Flow Optimization",
+    "description": "Design a high-converting checkout with address autocomplete, smart field ordering, progress indicators, and minimal friction to reduce abandonment",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "currency-hedging-management",
+    "path": "skills/payments-checkout/currency-hedging-management",
+    "category": "payments-checkout",
+    "name": "Currency Hedging Management",
+    "description": "Manage foreign exchange risk for multi-currency ecommerce with FX rate tracking, hedging strategies, and realized/unrealized gain-loss accounting",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "guest-checkout",
+    "path": "skills/payments-checkout/guest-checkout",
+    "category": "payments-checkout",
+    "name": "Guest Checkout",
+    "description": "Allow shoppers to buy without creating an account, then invite them to save their details post-purchase to reduce checkout friction and increase conversion",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "invoice-generation-automation",
+    "path": "skills/payments-checkout/invoice-generation-automation",
+    "category": "payments-checkout",
+    "name": "Invoice Generation Automation",
+    "description": "Generate professional invoices automatically with custom branding, payment terms, line item details, tax breakdowns, and integration with accounting systems",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "multi-currency",
+    "path": "skills/payments-checkout/multi-currency",
+    "category": "payments-checkout",
+    "name": "Multi Currency",
+    "description": "Let international shoppers browse and pay in their local currency with automatic detection, live exchange rates, and locale-specific price formatting",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "order-processing-pipeline",
+    "path": "skills/payments-checkout/order-processing-pipeline",
+    "category": "payments-checkout",
+    "name": "Order Processing Pipeline",
+    "description": "Implement a reliable order state machine that moves orders from pending through payment, fulfillment, and delivery with webhook-driven transitions",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "payment-reconciliation-automation",
+    "path": "skills/payments-checkout/payment-reconciliation-automation",
+    "category": "payments-checkout",
+    "name": "Payment Reconciliation Automation",
+    "description": "Automate payment reconciliation across Stripe, PayPal, and bank accounts with exception handling, automated matching rules, and discrepancy alerting",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "payment-terms-optimization",
+    "path": "skills/payments-checkout/payment-terms-optimization",
+    "category": "payments-checkout",
+    "name": "Payment Terms Optimization",
+    "description": "Configure flexible payment terms for B2B customers with net-30/60/90 options, early payment discounts, credit limit management, and automated collections",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "payout-split-management",
+    "path": "skills/payments-checkout/payout-split-management",
+    "category": "payments-checkout",
+    "name": "Payout Split Management",
+    "description": "Manage complex payout splits for marketplaces and platforms with seller disbursements, commission calculation, tax withholding, and 1099 reporting",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "paypal-integration",
+    "path": "skills/payments-checkout/paypal-integration",
+    "category": "payments-checkout",
+    "name": "Paypal Integration",
+    "description": "Add PayPal, Venmo, and Pay Later buttons to your store using the PayPal Commerce Platform SDK with Express Checkout for one-tap buying",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "stripe-integration",
+    "path": "skills/payments-checkout/stripe-integration",
+    "category": "payments-checkout",
+    "name": "Stripe Integration",
+    "description": "Build secure payment flows with Stripe — Payment Intents, subscription billing, webhook handling, and European SCA compliance for card payments",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "subscription-billing",
+    "path": "skills/payments-checkout/subscription-billing",
+    "category": "payments-checkout",
+    "name": "Subscription Billing",
+    "description": "Sell recurring subscriptions with automated billing, dunning emails for failed payments, plan upgrade/downgrade prorations, and self-serve cancellation",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "tax-calculation",
+    "path": "skills/payments-checkout/tax-calculation",
+    "category": "payments-checkout",
+    "name": "Tax Calculation",
+    "description": "Calculate accurate sales tax and VAT at checkout using TaxJar or Avalara, with nexus management for multi-state and international compliance",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "tax-compliance-automation",
+    "path": "skills/payments-checkout/tax-compliance-automation",
+    "category": "payments-checkout",
+    "name": "Tax Compliance Automation",
+    "description": "Automate multi-jurisdiction sales tax, VAT, and GST compliance with nexus tracking, exemption certificates, filing automation, and audit-ready reports",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "magento-graphql",
+    "path": "skills/platform-magento/magento-graphql",
+    "category": "platform-magento",
+    "name": "Magento Graphql",
+    "description": "Query Magento's GraphQL API to build headless storefronts or PWA Studio frontends with products, cart, checkout, and customer operations",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "magento"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "magento-indexing-caching",
+    "path": "skills/platform-magento/magento-indexing-caching",
+    "category": "platform-magento",
+    "name": "Magento Indexing Caching",
+    "description": "Speed up Magento by managing indexers correctly, configuring Varnish full-page cache, and using Redis for session and object caching",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "magento"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "magento-module-development",
+    "path": "skills/platform-magento/magento-module-development",
+    "category": "platform-magento",
+    "name": "Magento Module Development",
+    "description": "Build custom Magento 2 modules using dependency injection, plugins, observers, and service contracts to extend core functionality cleanly",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "magento"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "magento-multi-store",
+    "path": "skills/platform-magento/magento-multi-store",
+    "category": "platform-magento",
+    "name": "Magento Multi Store",
+    "description": "Configure multiple websites and store views in Magento with shared or scoped catalogs, separate URL structures, and store-specific settings",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "magento"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "sfcc-business-manager",
+    "path": "skills/platform-salesforce-cc/sfcc-business-manager",
+    "category": "platform-salesforce-cc",
+    "name": "Sfcc Business Manager",
+    "description": "Configure Salesforce Commerce Cloud via Business Manager — manage catalogs, promotions, site preferences, and run XML import/export jobs",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "salesforce-commerce-cloud"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sfcc-cartridge-development",
+    "path": "skills/platform-salesforce-cc/sfcc-cartridge-development",
+    "category": "platform-salesforce-cc",
+    "name": "Sfcc Cartridge Development",
+    "description": "Build SFRA-based Salesforce Commerce Cloud cartridges with controllers, ISML templates, and hooks to customize storefront behavior",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "salesforce-commerce-cloud"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "sfcc-ocapi-scapi",
+    "path": "skills/platform-salesforce-cc/sfcc-ocapi-scapi",
+    "category": "platform-salesforce-cc",
+    "name": "Sfcc Ocapi Scapi",
+    "description": "Integrate with Salesforce Commerce Cloud's headless APIs (OCAPI and Shopper APIs) to build custom storefronts and mobile commerce experiences",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "salesforce-commerce-cloud"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "shopify-admin-api",
+    "path": "skills/platform-shopify/shopify-admin-api",
+    "category": "platform-shopify",
+    "name": "Shopify Admin Api",
+    "description": "Automate Shopify store operations — products, orders, inventory, and customers — using the GraphQL Admin API with bulk operation support",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "shopify-app-development",
+    "path": "skills/platform-shopify/shopify-app-development",
+    "category": "platform-shopify",
+    "name": "Shopify App Development",
+    "description": "Build embedded Shopify apps using the Remix framework, App Bridge for UI integration, Polaris components, and OAuth authentication flow",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "shopify-checkout-extensions",
+    "path": "skills/platform-shopify/shopify-checkout-extensions",
+    "category": "platform-shopify",
+    "name": "Shopify Checkout Extensions",
+    "description": "Customize Shopify's checkout with UI extensions for upsells and custom fields, plus Shopify Functions for serverless discount and shipping logic",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "shopify-metafields",
+    "path": "skills/platform-shopify/shopify-metafields",
+    "category": "platform-shopify",
+    "name": "Shopify Metafields",
+    "description": "Store custom data on any Shopify resource — products, orders, customers — using typed metafield definitions accessible from Liquid and the Storefront API",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "shopify-storefront-api",
+    "path": "skills/platform-shopify/shopify-storefront-api",
+    "category": "platform-shopify",
+    "name": "Shopify Storefront Api",
+    "description": "Build a headless Shopify frontend using the GraphQL Storefront API for product queries, cart management, and checkout with the Buy SDK",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "shopify-theme-development",
+    "path": "skills/platform-shopify/shopify-theme-development",
+    "category": "platform-shopify",
+    "name": "Shopify Theme Development",
+    "description": "Build and customize Shopify themes using Liquid templating, JSON sections, dynamic blocks, and theme app extensions for added functionality",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "shopify-webhooks",
+    "path": "skills/platform-shopify/shopify-webhooks",
+    "category": "platform-shopify",
+    "name": "Shopify Webhooks",
+    "description": "Register, verify, and reliably process Shopify webhook events for orders, inventory, and customers with HMAC validation and idempotency handling",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "woocommerce-blocks",
+    "path": "skills/platform-woocommerce/woocommerce-blocks",
+    "category": "platform-woocommerce",
+    "name": "Woocommerce Blocks",
+    "description": "Customize WooCommerce checkout and cart pages using Gutenberg blocks with server-side rendering, slot-fills, and extensibility hooks",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "woocommerce"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "woocommerce-performance",
+    "path": "skills/platform-woocommerce/woocommerce-performance",
+    "category": "platform-woocommerce",
+    "name": "Woocommerce Performance",
+    "description": "Fix slow WooCommerce stores by optimizing database queries, clearing transients, enabling Redis object caching, and configuring page caching",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "woocommerce"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "woocommerce-plugin-development",
+    "path": "skills/platform-woocommerce/woocommerce-plugin-development",
+    "category": "platform-woocommerce",
+    "name": "Woocommerce Plugin Development",
+    "description": "Create custom WooCommerce plugins using action/filter hooks, the Settings API, and REST API extensions to add features without modifying core",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "woocommerce"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "woocommerce-rest-api",
+    "path": "skills/platform-woocommerce/woocommerce-rest-api",
+    "category": "platform-woocommerce",
+    "name": "Woocommerce Rest Api",
+    "description": "Integrate or build headless frontends on WooCommerce using its REST API for products, orders, customers, and coupons with key authentication",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "woocommerce"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "woocommerce-subscriptions",
+    "path": "skills/platform-woocommerce/woocommerce-subscriptions",
+    "category": "platform-woocommerce",
+    "name": "Woocommerce Subscriptions",
+    "description": "Add subscription products to WooCommerce with automatic recurring billing, renewal notifications, and subscriber self-service management",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "woocommerce"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "ab-testing-pricing",
+    "path": "skills/pricing-promotions/ab-testing-pricing",
+    "category": "pricing-promotions",
+    "name": "Ab Testing Pricing",
+    "description": "Test different price points with proper statistical rigor to find the revenue-maximizing price while tracking conversion rate and margin impact",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "coupon-management",
+    "path": "skills/pricing-promotions/coupon-management",
+    "category": "pricing-promotions",
+    "name": "Coupon Management",
+    "description": "Build a coupon system with percentage and fixed discounts, usage limits per customer, expiration dates, and bulk unique-code generation",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "discount-engine",
+    "path": "skills/pricing-promotions/discount-engine",
+    "category": "pricing-promotions",
+    "name": "Discount Engine",
+    "description": "Create a flexible discount system supporting percentage off, fixed amounts, buy-one-get-one, tiered thresholds, and complex conditional rules",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "dynamic-pricing",
+    "path": "skills/pricing-promotions/dynamic-pricing",
+    "category": "pricing-promotions",
+    "name": "Dynamic Pricing",
+    "description": "Automatically adjust prices based on demand signals, competitor prices, and inventory levels to maximize revenue and stay competitive",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "flash-sale-engine",
+    "path": "skills/pricing-promotions/flash-sale-engine",
+    "category": "pricing-promotions",
+    "name": "Flash Sale Engine",
+    "description": "Run time-limited sales with live countdown timers, per-item quantity caps, virtual waiting rooms, and automatic price restoration on expiry",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "gift-cards",
+    "path": "skills/pricing-promotions/gift-cards",
+    "category": "pricing-promotions",
+    "name": "Gift Cards",
+    "description": "Sell and accept gift cards with secure code generation, real-time balance tracking, partial redemption support, and expiration enforcement",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "loyalty-points-system",
+    "path": "skills/pricing-promotions/loyalty-points-system",
+    "category": "pricing-promotions",
+    "name": "Loyalty Points System",
+    "description": "Reward repeat customers with points they earn on every purchase, redeem for discounts, and accumulate to unlock higher-tier benefits",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "price-rules-engine",
+    "path": "skills/pricing-promotions/price-rules-engine",
+    "category": "pricing-promotions",
+    "name": "Price Rules Engine",
+    "description": "Define stackable pricing rules with priority ordering, customer-segment targeting, product exclusions, and automatic discount combination logic",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "volume-pricing",
+    "path": "skills/pricing-promotions/volume-pricing",
+    "category": "pricing-promotions",
+    "name": "Volume Pricing",
+    "description": "Offer quantity-based price breaks so wholesale and bulk buyers automatically see lower prices as they add more units to their cart",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "account-security",
+    "path": "skills/security-compliance/account-security",
+    "category": "security-compliance",
+    "name": "Account Security",
+    "description": "Protect customer accounts with brute-force lockouts, multi-factor authentication, secure session handling, and credential-stuffing defenses",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "bot-protection",
+    "path": "skills/security-compliance/bot-protection",
+    "category": "security-compliance",
+    "name": "Bot Protection",
+    "description": "Block automated bots from scraping your catalog, scalping limited inventory, and abusing checkout flows using CAPTCHA and behavioral detection",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "data-retention-policies",
+    "path": "skills/security-compliance/data-retention-policies",
+    "category": "security-compliance",
+    "name": "Data Retention Policies",
+    "description": "Automate the lifecycle of order and customer data — archive old records, anonymize personal data on request, and purge expired data on schedule",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "financial-audit-trail",
+    "path": "skills/security-compliance/financial-audit-trail",
+    "category": "security-compliance",
+    "name": "Financial Audit Trail",
+    "description": "Build immutable audit trails for all financial transactions with user attribution, change logging, tamper detection, and compliance-ready export for external audits",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "financial-compliance-sox",
+    "path": "skills/security-compliance/financial-compliance-sox",
+    "category": "security-compliance",
+    "name": "Financial Compliance Sox",
+    "description": "Implement SOX-compliant financial controls for ecommerce with audit trails, segregation of duties, access controls, and compliance-ready transaction logging",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "fraud-detection",
+    "path": "skills/security-compliance/fraud-detection",
+    "category": "security-compliance",
+    "name": "Fraud Detection",
+    "description": "Protect your store from fraudulent orders using risk scoring, 3D Secure challenges, velocity checks, and manual review queues for suspicious orders",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "gdpr-ecommerce",
+    "path": "skills/security-compliance/gdpr-ecommerce",
+    "category": "security-compliance",
+    "name": "Gdpr Ecommerce",
+    "description": "Make your store GDPR-compliant with cookie consent, customer data export on request, right-to-deletion workflows, and data processing agreements",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "pci-dss-compliance",
+    "path": "skills/security-compliance/pci-dss-compliance",
+    "category": "security-compliance",
+    "name": "Pci Dss Compliance",
+    "description": "Meet PCI-DSS payment security requirements by scoping your environment correctly, selecting the right SAQ, and implementing required controls",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "secure-checkout",
+    "path": "skills/security-compliance/secure-checkout",
+    "category": "security-compliance",
+    "name": "Secure Checkout",
+    "description": "Harden your checkout against attacks with HTTPS enforcement, Content Security Policy headers, input sanitization, and card data tokenization",
+    "risk": "critical",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "accessibility-commerce",
+    "path": "skills/storefront-ui/accessibility-commerce",
+    "category": "storefront-ui",
+    "name": "Accessibility Commerce",
+    "description": "Make your store usable by everyone with WCAG 2.1 AA compliance — screen reader support, keyboard navigation, and accessible cart and checkout flows",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "faceted-navigation",
+    "path": "skills/storefront-ui/faceted-navigation",
+    "category": "storefront-ui",
+    "name": "Faceted Navigation",
+    "description": "Let shoppers filter products by multiple attributes simultaneously with URL-shareable filter state, instant results, and mobile-friendly controls",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "image-zoom-360",
+    "path": "skills/storefront-ui/image-zoom-360",
+    "category": "storefront-ui",
+    "name": "Image Zoom 360",
+    "description": "Boost product confidence with high-res image zoom, 360-degree spin views, and inline video so shoppers can examine products closely before buying",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "mega-menu-builder",
+    "path": "skills/storefront-ui/mega-menu-builder",
+    "category": "storefront-ui",
+    "name": "Mega Menu Builder",
+    "description": "Build a rich navigation mega menu with product images, category highlights, featured banners, and keyboard-accessible dropdowns for large catalogs",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "product-comparison",
+    "path": "skills/storefront-ui/product-comparison",
+    "category": "storefront-ui",
+    "name": "Product Comparison",
+    "description": "Let shoppers select multiple products and compare them side-by-side in a table with highlighted differences to help them make the right buying decision",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "product-page-design",
+    "path": "skills/storefront-ui/product-page-design",
+    "category": "storefront-ui",
+    "name": "Product Page Design",
+    "description": "Design high-converting product detail pages with image galleries, variant selectors, social proof, and clear calls-to-action that drive add-to-cart",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "quick-view-modal",
+    "path": "skills/storefront-ui/quick-view-modal",
+    "category": "storefront-ui",
+    "name": "Quick View Modal",
+    "description": "Let shoppers preview product details and add items to cart from the listing page without navigating away, reducing friction in the shopping flow",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "recently-viewed-products",
+    "path": "skills/storefront-ui/recently-viewed-products",
+    "category": "storefront-ui",
+    "name": "Recently Viewed Products",
+    "description": "Show shoppers the products they recently browsed using browser storage so they can easily pick up where they left off on your store",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "responsive-storefront",
+    "path": "skills/storefront-ui/responsive-storefront",
+    "category": "storefront-ui",
+    "name": "Responsive Storefront",
+    "description": "Build a mobile-first storefront with thumb-friendly navigation, sticky add-to-cart buttons, and touch-optimized components for high mobile conversion",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "search-autocomplete",
+    "path": "skills/storefront-ui/search-autocomplete",
+    "category": "storefront-ui",
+    "name": "Search Autocomplete",
+    "description": "Speed up product discovery with instant search suggestions, fuzzy typo matching, and category-aware results powered by Algolia or Elasticsearch",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "storefront-theming",
+    "path": "skills/storefront-ui/storefront-theming",
+    "category": "storefront-ui",
+    "name": "Storefront Theming",
+    "description": "Build a themeable storefront with design tokens and CSS custom properties that supports white-labeling, multi-brand variants, and dark mode",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "wishlist-save-for-later",
+    "path": "skills/storefront-ui/wishlist-save-for-later",
+    "category": "storefront-ui",
+    "name": "Wishlist Save For Later",
+    "description": "Let shoppers save products to a wishlist, share it with friends, and get notified when saved items come back in stock or drop in price",
+    "risk": "safe",
+    "source": "curated",
+    "date_added": "2026-03-12",
+    "platforms": [
+      "shopify",
+      "woocommerce",
+      "bigcommerce",
+      "custom"
+    ],
+    "difficulty": "intermediate"
+  }
+]
