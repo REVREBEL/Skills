@@ -1,0 +1,27 @@
+{
+  "name": "digital-marketing-pro",
+  "version": "3.13.1",
+  "description": "Open-source AI marketing plugin for agencies & in-house teams. 158 skills, 25 specialist agents, 12-Part Strategy Flow, Cowork team-persistent, EU AI Act Article 50 ready.",
+  "author": {
+    "name": "Indranil Banerjee",
+    "url": "https://indranil.in"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-plugin",
+    "agent-skills",
+    "openai-codex",
+    "cursor-plugin",
+    "copilot-cli-plugin",
+    "google-antigravity",
+    "hermes-plugin",
+    "openclaw-plugin",
+    "marketing",
+    "seo",
+    "aeo",
+    "geo",
+    "c2pa",
+    "eu-ai-act"
+  ]
+}
