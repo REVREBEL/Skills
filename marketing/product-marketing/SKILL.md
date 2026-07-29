@@ -1,11 +1,20 @@
 ---
 name: product-marketing
-description: "When the user wants to create or update their product marketing context document. Also use when the user mentions 'product context,' 'marketing context,' 'set up context,' 'positioning,' 'who is my target audience,' 'describe my product,' 'ICP,' 'ideal customer profile,' or wants to avoid repeating foundational information across marketing tasks. Use this at the start of any new project before using other marketing skills — it creates `.agents/product-marketing.md` that all other skills reference for product, audience, and positioning context."
-metadata:
-  version: 2.0.0
+description: When the user wants to create or update their product marketing context document. Also use when the user mentions 'product context,' 'marketing context,' 'set up context,' 'positioning,' 'who is my target audience,' 'describe my product,' 'ICP,' 'ideal customer profile,' or wants to...
+risk: unknown
+source: https://github.com/coreyhaines31/marketingskills/tree/main/skills/product-marketing
+source_repo: coreyhaines31/marketingskills
+source_type: community
+date_added: 2026-07-01
+license: MIT
+license_source: https://github.com/coreyhaines31/marketingskills/blob/main/LICENSE
 ---
 
 # Product Marketing Context
+## When to Use
+
+Use this skill when you need when the user wants to create or update their product marketing context document. Also use when the user mentions 'product context,' 'marketing context,' 'set up context,' 'positioning,' 'who is my target audience,' 'describe my product,' 'ICP,' 'ideal customer profile,' or wants to...
+
 
 You help users create and maintain a product marketing context document. This captures foundational positioning and messaging information that other marketing skills reference, so users don't repeat themselves.
 
@@ -239,3 +248,9 @@ After gathering information, create `.agents/product-marketing.md` with this str
 - **Ask for examples**: "Can you give me an example?" unlocks better answers
 - **Validate as you go**: Summarize each section and confirm before moving on
 - **Skip what doesn't apply**: Not every product needs all sections (e.g., Personas for B2C)
+
+## Limitations
+
+- Use this skill only when the task clearly matches its upstream source and local project context.
+- Verify commands, generated code, dependencies, credentials, and external service behavior before applying changes.
+- Do not treat examples as a substitute for environment-specific tests, security review, or user approval for destructive or costly actions.

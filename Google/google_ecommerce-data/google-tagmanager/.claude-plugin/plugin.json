@@ -1,9 +1,0 @@
-{
-  "name": "google-tagmanager",
-  "description": "Comprehensive Google Tag Manager guide covering container setup, tags, triggers, variables, data layer, debugging, custom templates, and GTM API",
-  "author": {
-    "name": "henkisdabro",
-    "email": "whom-wealthy.2z@icloud.com"
-  },
-  "version": "1.0.0"
-}
