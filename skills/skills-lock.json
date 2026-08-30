@@ -23,7 +23,7 @@
       "source": "REVREBEL/Metrics-Core",
       "sourceType": "github",
       "skillPath": ".agents/skills/building-components/SKILL.md",
-      "computedHash": "ca96444b70257eb3f4f4c76dfdd4a32312c835fe3c8755d2e3d75ac78d384bfd"
+      "computedHash": "c739ac83fcc591de0b81c4cb81103f14a4518dd4d6e9f059d699cd1b02cb915d"
     },
     "data-storytelling": {
       "source": "REVREBEL/Metrics-Core",
@@ -53,13 +53,13 @@
       "source": "REVREBEL/Metrics-Core",
       "sourceType": "github",
       "skillPath": ".agents/skills/shadcn-ui/SKILL.md",
-      "computedHash": "1cfabcd95fe615781a0c4d1a947e5bcb88e9604c30ba8e0a8194b55b8ef4abd1"
+      "computedHash": "615961d51cea06a0695d8a37e63749f4abfa5d2cd2c9868051c893a7ab744863"
     },
     "tailwind-theme-builder": {
       "source": "REVREBEL/Metrics-Core",
       "sourceType": "github",
       "skillPath": ".agents/skills/tailwind-theme-builder/SKILL.md",
-      "computedHash": "6d306f1cbd4c557a689ee97c543484b394bf39d365a3f0a4fa3ea4b20028f123"
+      "computedHash": "3c086814fc9483c1cab3d542815cfbac22f3da80ca0d0ad2c66f7b8c11e058d5"
     }
   }
 }

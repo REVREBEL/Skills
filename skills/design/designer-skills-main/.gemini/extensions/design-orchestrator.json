@@ -1,7 +1,0 @@
-
-{
-  "name": "design-orchestrator",
-  "version": "1.0.0",
-  "description": "The core coordinator for process execution. Because separate workspaces or chat sessions do not inherently share a persistent memory state, the underlying repository structure acts as the shared brain. All workflows depend on updating documentation explicitly across milestones to preserve continuity.",
-  "contextFileName": "design-orchestrator.md"
-}

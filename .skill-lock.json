@@ -946,6 +946,77 @@
       "skillFolderHash": "2f044be1b694668283222cbd41be2433bbf1cc30",
       "installedAt": "2026-07-29T06:50:32.193Z",
       "updatedAt": "2026-07-29T06:50:32.193Z"
+    },
+    "git-commit": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/github/awesome-copilot.git",
+      "skillPath": "skills/git-commit/SKILL.md",
+      "skillFolderHash": "883a6a7466f55a9cd9f22cf1cce2d9333fc9b998",
+      "installedAt": "2026-08-03T03:42:26.134Z",
+      "updatedAt": "2026-08-03T03:42:26.134Z"
+    },
+    "github-issues": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/github/awesome-copilot.git",
+      "skillPath": "skills/github-issues/SKILL.md",
+      "skillFolderHash": "95fb5bd16c2cecb7c14c58d7e902a91daae2ec5e",
+      "installedAt": "2026-08-03T03:44:46.187Z",
+      "updatedAt": "2026-08-03T03:44:46.187Z"
+    },
+    "git-flow-branch-creator": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/github/awesome-copilot.git",
+      "skillPath": "skills/git-flow-branch-creator/SKILL.md",
+      "skillFolderHash": "f303999031498939d1c25cc37ad36cb96a0639c5",
+      "installedAt": "2026-08-03T03:46:39.809Z",
+      "updatedAt": "2026-08-03T03:46:39.809Z"
+    },
+    "create-llms": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/github/awesome-copilot.git",
+      "skillPath": "skills/create-llms/SKILL.md",
+      "skillFolderHash": "d03fe373e24fb06f2d63a6df54731f37dbfee4d9",
+      "installedAt": "2026-08-03T03:47:36.170Z",
+      "updatedAt": "2026-08-03T03:47:36.170Z"
+    },
+    "update-llms": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/github/awesome-copilot.git",
+      "skillPath": "skills/update-llms/SKILL.md",
+      "skillFolderHash": "d83629edb40c26972a5594b2e1cb39f668518bbb",
+      "installedAt": "2026-08-03T03:48:54.140Z",
+      "updatedAt": "2026-08-03T03:48:54.140Z"
+    },
+    "template-skill-enhanced": {
+      "source": "nickcrew/claude-ctx-plugin",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/nickcrew/claude-ctx-plugin.git",
+      "skillPath": "skills/template-skill-enhanced/SKILL.md",
+      "skillFolderHash": "a7eb0a23002df1968460de361dbe4e39bc417b15",
+      "installedAt": "2026-08-03T03:57:31.660Z",
+      "updatedAt": "2026-08-03T03:57:31.660Z"
+    },
+    "smithery-ai-cli": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "sourceUrl": "https://smithery.ai/.well-known/skills/smithery-ai-cli/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-08-03T04:00:06.836Z",
+      "updatedAt": "2026-08-03T04:00:06.836Z"
+    },
+    "google-apps-script": {
+      "source": "jezweb/claude-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jezweb/claude-skills.git",
+      "skillPath": "plugins/integrations/skills/google-apps-script/SKILL.md",
+      "skillFolderHash": "877b6fbf1b83699a6b12c787d86a39d94dcd58be",
+      "installedAt": "2026-08-13T01:22:50.536Z",
+      "updatedAt": "2026-08-13T01:22:50.536Z"
     }
   },
   "dismissed": {
